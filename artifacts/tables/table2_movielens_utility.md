@@ -1,0 +1,4 @@
+| Action       | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| ------------ | -------- | -------- | -------- | -------- | -------- |
+| No-Recommend | 0        | 0        | 0        | 0        | 0        |
+| Recommend    | -2       | -1       | 0        | 1        | 2        |

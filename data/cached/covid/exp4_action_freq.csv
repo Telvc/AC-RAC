@@ -1,0 +1,21 @@
+method,action,action_name,count,frequency
+AC-RAC,0,No Action,206,0.0486537553141237
+AC-RAC,1,Antibiotics,47,0.0111006140765233
+AC-RAC,2,Quarantine,115,0.0271610769957487
+AC-RAC,3,Additional Testing,3866,0.9130845536136042
+RAC,0,No Action,1310,0.3094000944733113
+RAC,1,Antibiotics,29,0.0068493150684931
+RAC,2,Quarantine,0,0.0
+RAC,3,Additional Testing,2895,0.6837505904581955
+Score-1,0,No Action,200,0.0472366556447803
+Score-1,1,Antibiotics,6,0.0014170996693434
+Score-1,2,Quarantine,0,0.0
+Score-1,3,Additional Testing,4028,0.9513462446858764
+Score-2,0,No Action,527,0.1244685876239962
+Score-2,1,Antibiotics,22,0.0051960321209258
+Score-2,2,Quarantine,0,0.0
+Score-2,3,Additional Testing,3685,0.870335380255078
+Best Response,0,No Action,1882,0.4444969296173831
+Best Response,1,Antibiotics,77,0.0181861124232404
+Best Response,2,Quarantine,0,0.0
+Best Response,3,Additional Testing,2275,0.5373169579593765

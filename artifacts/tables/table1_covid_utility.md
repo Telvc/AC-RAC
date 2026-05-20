@@ -1,0 +1,6 @@
+| True Label       | No Action | Antibiotics | Quarantine | Additional Testing |
+| ---------------- | --------- | ----------- | ---------- | ------------------ |
+| Normal (0)       | 10        | 2           | 2          | 4                  |
+| Pneumonia (1)    | 0         | 10          | 3          | 7                  |
+| COVID-19 (2)     | 0         | 3           | 10         | 8                  |
+| Lung Opacity (3) | 1         | 4           | 4          | 10                 |

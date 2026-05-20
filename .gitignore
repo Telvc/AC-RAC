@@ -1,0 +1,56 @@
+﻿.venv/
+.claude/
+.pytest_cache/
+Iso-lora/
+iso-lora/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Raw/extracted datasets and local large artifacts
+*.zip
+!ml-100k.zip
+ml-100k/
+data/raw/
+covid19-radiography-database/
+COVID-19_Radiography_Dataset/
+my_inception_model.pth
+
+# Local notebooks and scratch outputs
+.local_archive/
+.local_notebooks/
+local_archive/
+local_notebooks/
+notebooks/
+*_results_fast/
+Covid_*experiments*.ipynb
+Covid_re_gradient (1).ipynb
+MovieLense.ipynb
+
+# Local review files that are not needed for public reproduction.
+28774_Conformal_Risk_Averse_De_Supplementary Material.txt
+Conformal Risk-Averse Decision Making with Action Conditional Guarantee _ OpenReview.txt
+Review Summary and Experiment.txt
+*_responses.md
+
+# Generated outputs: ignore by default, but keep reproduction artifacts.
+artifacts/*
+!artifacts/results/
+artifacts/results/*
+!artifacts/results/covid/
+!artifacts/results/covid/*.csv
+!artifacts/results/movielens_3seeds_paper_protocol/
+!artifacts/results/movielens_3seeds_paper_protocol/*.csv
+!artifacts/figures/
+artifacts/figures/*
+!artifacts/figures/*.pdf
+!artifacts/tables/
+artifacts/tables/*
+!artifacts/tables/*.csv
+!artifacts/tables/*.md
+!artifacts/tables/*.tex
+*.pdf
+!artifacts/figures/*.pdf
+*.png
+
